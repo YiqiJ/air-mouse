@@ -35,6 +35,7 @@ The code will be successfully loaded into the board.
 
 * Again, if you press the SW3, the **red LED** turns off, which means the mouse is disconneted to the computer. 
 
-
+### Performance
+Please visit our [Air Mouse Wiki Site!](https://pages.github.coecis.cornell.edu/ece3140-sp2020/yj89-zc96/)
 
 
