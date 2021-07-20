@@ -1,0 +1,3 @@
+peripherals.c:73:6:BOARD_ACCEL_I2C_init	8	static
+peripherals.c:82:6:BOARD_InitPeripherals	8	static
+peripherals.c:91:6:BOARD_InitBootPeripherals	8	static
